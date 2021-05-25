@@ -1,0 +1,39 @@
+variaveis 
+
+var nome = "Ariadne"
+var idade = 22
+var altura = 1.64
+var filmesPreferidos =["Matrix", "Orgulho e preconceito", "Amor alem da vida"] 
+var nomeCompleto = "ariadne de oliveira santos"
+
+
+condicionais
+
+if(estaChovendo){
+console.log("esta chovendo")
+}
+
+
+if(bilheteTemCarga){
+   console.log("vou pegar o trem")
+} else {
+   console.log("vou a pé")
+}
+
+if(tem suco){
+   console.log("vou beber suco")
+} else if("tem agua"){
+   console.log("vou beber agua")
+} else
+   console.log("nao vou beber nada")
+
+}
+
+            
+
+loopes/lista
+
+
+
+
+
